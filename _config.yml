@@ -188,6 +188,7 @@ collections:
     permalink: /:collection/:path/
 
 # Defaults
+
 defaults:
   # _posts
   - scope:
@@ -201,7 +202,7 @@ defaults:
       share: false
       related: false
 
-  # _pages  (turn off meta + share to avoid stray ", , 1900")
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -212,7 +213,7 @@ defaults:
       read_time: false
       share: false
 
-  # _teaching  (fixed indent + meta off)
+  # _teaching  ✅ correct indent + meta off
   - scope:
       path: ""
       type: teaching
