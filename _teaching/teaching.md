@@ -1,14 +1,14 @@
 ---
-layout: single
+---
+layout: archive
 title: "Teaching"
 permalink: /teaching/
+collection: teaching
 author_profile: false
 show_date: false
 read_time: false
 share: false
-related: false
-# keep or remove the next line depending on your site setup:
-# collection: teaching
+entries_layout: list
 ---
 
 ### Macroeconomics I (graduate)
