@@ -4,7 +4,7 @@
 locale                   : "en-US"
 title                    : "Sofia Sanchez Alegre"
 title_separator          : "-"
-name                     : &name "Sofia Sanchez Alegre"
+name                     : &name "Contact Information"
 description              : &description "personal description"
 url                      : https://sofiasanchezalegre.github.io
 baseurl                  : ""
