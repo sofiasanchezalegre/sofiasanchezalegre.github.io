@@ -1,14 +1,11 @@
 ---
----
-layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /teaching/teaching
 collection: teaching
 author_profile: false
 show_date: false
 read_time: false
 share: false
-entries_layout: list
 ---
 
 ### Macroeconomics I (graduate)
