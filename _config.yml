@@ -210,10 +210,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -222,14 +222,15 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
+ - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      show_date: false
+      read_time: false
       share: false
-      comments: false
+      author_profile: true
   # _publications
   - scope:
       path: ""
