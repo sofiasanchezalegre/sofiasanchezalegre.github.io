@@ -11,7 +11,7 @@ layout: none
     <title>CV</title>
   </head>
   <body>
-    <p>Redirecting to <a href="/assets/pdf/Sofia_Sanchez_Alegre_CV.pdf">my CV</a>…</p>
+    <p>Redirecting to <a href="/files/pdf/SSA_cv.pdf">DOWNLOAD CV</a>…</p>
   </body>
 </html>
 
