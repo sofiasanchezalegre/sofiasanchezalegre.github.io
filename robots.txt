@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sofiasanchezalegre.github.io/sitemap.xml
