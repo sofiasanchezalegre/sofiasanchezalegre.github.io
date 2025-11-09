@@ -8,7 +8,8 @@ author_profile: true
 
 ### Limits to Monetary Policy: When Central Banks Diverge *(Job Market Paper)*
 <details>
-  <summary><strong>Show abstract</strong></summary>
+  <summary><strong>Abstract</strong>&nbsp;|&nbsp;<a href="https://sofiasanchezalegre.github.io/files/SanchezAlegre_JMP.pdf" target="_blank" rel="noopener">Paper</a></summary>
+  <p>
   <p>
 The high degree of financial and economic integration implies that monetary policy decisions by major central banks have substantial cross-border effects. This paper studies how divergence across major central banks shapes the transmission of domestic monetary policy. Using state-dependent local projections, I show that the transmission of European Central Bank (ECB) policy reverses when Federal Reserve (Fed) monetary policy is of the opposite sign. During U.S. monetary expansions, an ECB tightening attracts capital inflows to the euro area and overturns its contractionary effects on output and inflation. By contrast, a Fed tightening is contractionary regardless of ECB policy. A two-country New Keynesian DSGE model rationalizes these findings. The model augments a standard framework with financial frictions via a global investor and assumes (i) the U.S. dollar is the dominant international funding currency, (ii) a no-arbitrage condition links returns on home and foreign capital, and (iii) uncovered interest parity fails due to frictions in international asset markets. In this environment, an easier U.S. policy lowers dollar funding costs and generates asymmetric cross-border spillovers that condition the transmission of ECB policy.
   </p>
