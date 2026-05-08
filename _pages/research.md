@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-### Limits to Monetary Policy: When Central Banks Diverge *(Job Market Paper)*
+**Limits to Monetary Policy: When Central Banks Diverge** *(Job Market Paper)*
 <details>
   <summary><strong>Abstract</strong>&nbsp;|&nbsp;<a href="https://sofiasanchezalegre.github.io/files/SanchezAlegre_JMP.pdf" target="_blank" rel="noopener">Paper</a></summary>
   <p>
