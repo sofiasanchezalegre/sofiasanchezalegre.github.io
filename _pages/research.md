@@ -16,5 +16,4 @@ In mid-2024, the European Central Bank (ECB) and the U.S.\ Federal Reserve (Fed)
 
 
 **Stochastic Climate Damages: Business Cycle and Policy Responses** (with Hernán D. Seoane)
-  href="https://sofiasanchezalegre.github.io/files/SanchezSeoane_stochastic_climate_damages.pdf" target="_blank" rel="noopener">Paper</a>
- 
+<a href="https://sofiasanchezalegre.github.io/files/SanchezSeoane_stochastic_climate_damages.pdf" target="_blank" rel="noopener">Paper</a>
