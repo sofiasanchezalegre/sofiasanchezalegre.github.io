@@ -1,5 +1,5 @@
 ---
 title: "CV"
 permalink: /cv/
-redirect_to: /files/SSA_cv.pdf
+redirect_to: /files/ssa_cv.pdf
 ---
